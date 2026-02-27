@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "htb/Preparación eCPPT/Máquina Buff/Máquina Buff.md",
+                "file": "htb/Preparación eCPPT/Máquina Forest/Máquina Forest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Máquina Buff"
+              "title": "Máquina Forest"
             }
           }
         ]
@@ -182,19 +182,21 @@
   },
   "active": "6cce5a2b59974e25",
   "lastOpenFiles": [
-    "Pasted image 20260220150902.png",
-    "Pasted image 20260220145512.png",
-    "Pasted image 20260220145316.png",
-    "Pasted image 20260220142150.png",
-    "Pasted image 20260220140612.png",
-    "Pasted image 20260220135427.png",
-    "Pasted image 20260220135228.png",
-    "Pasted image 20260220135055.png",
-    "Pasted image 20260220133844.png",
-    "Pasted image 20260220132826.png",
-    "Pasted image 20260220132724.png",
-    "htb/Preparación eCPPT/Máquina Buff/writeup.md.canvas",
+    "htb/Preparación eCPPT/Máquina Forest/evidences/Pasted image 20260227212712.png",
+    "htb/Preparación eCPPT/Máquina Forest/evidences/Pasted image 20260227212633.png",
+    "htb/Preparación eCPPT/Máquina Forest/evidences/Pasted image 20260227212305.png",
+    "htb/Preparación eCPPT/Máquina Forest/evidences/Pasted image 20260227212143.png",
+    "htb/Preparación eCPPT/Máquina Forest/evidences/Pasted image 20260227211347.png",
+    "htb/Preparación eCPPT/Máquina Forest/evidences/Pasted image 20260227210911.png",
+    "htb/Preparación eCPPT/Máquina Forest/evidences/Pasted image 20260227210451.png",
+    "htb/Preparación eCPPT/Máquina Forest/evidences/Pasted image 20260227210304.png",
+    "htb/Preparación eCPPT/Máquina Forest/evidences/Pasted image 20260227210013.png",
+    "htb/Preparación eCPPT/Máquina Forest/evidences/Pasted image 20260227205832.png",
+    "htb/Preparación eCPPT/Máquina Forest/evidences/Pasted image 20260227205736.png",
+    "htb/Preparación eCPPT/Máquina Forest/evidences",
     "htb/Preparación eCPPT/Máquina Buff/Máquina Buff.md",
+    "htb/Preparación eCPPT/Máquina Forest/Máquina Forest.md",
+    "htb/Preparación eCPPT/Máquina Buff/writeup.md.canvas",
     "htb/Preparación eCPPT/Máquina OpenSource",
     "htb/Preparación eCPPT/Máquina GoodGames",
     "htb/Preparación eCPPT/Máquina Forest",
